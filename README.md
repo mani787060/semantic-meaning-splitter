@@ -255,9 +255,3 @@ Possible extensions to this project include:
 - Building a complete RAG question-answering application.
 
 ---
-
-## 🔗 Repository
-
-GitHub: https://github.com/mani787060/semantic-meaning-splitter
-
-**Project Focus:** Semantic Text Chunking | LangChain | Google Generative AI Embeddings | RAG Preprocessing
