@@ -253,5 +253,3 @@ Possible extensions to this project include:
 - Processing external documents such as PDFs and Markdown files.
 - Integrating generated chunks with a vector database.
 - Building a complete RAG question-answering application.
-
----
